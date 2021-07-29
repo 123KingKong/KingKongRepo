@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.openwizard" name="King Kong Wizard" version="0.0.1" provider-name="drinfernoo">
+<addon id="plugin.program.KingKongWizard" name="King Kong Wizard" version="0.0.1" provider-name="drxipz">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
